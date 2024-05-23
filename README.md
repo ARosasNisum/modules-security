@@ -1,2 +1,10 @@
 # Spring-JSF-Security
-Criação de um arquétipo em jsf, com jpa e hibernate.
+## Run Project
+Run el EmbebedTomcatApplication.java
+
+Ubicado en: 
+
+``
+web/src/main/java/com/web/EmbebedTomcatApplication.java
+``
+
